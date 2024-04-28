@@ -41,8 +41,6 @@ Overall, the CSS code is well-organized and structured, with clear comments and 
 ### Screenshot
 ![DesktopScreenshot](https://github.com/saifullahshaukat/Recipe-page-challenge-on-Frontend-Mentor/assets/157408050/3bb990e5-8045-4882-9811-6f4ef946c9cf)
 
-![MobileScreenshot](https://github.com/saifullahshaukat/Recipe-page-challenge-on-Frontend-Mentor/assets/157408050/2fe63e32-6c16-4552-8265-0ae5afcb6507)
-
 ### Links
 
 - Solution URL: [Github](https://github.com/saifullahshaukat)
