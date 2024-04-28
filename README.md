@@ -39,9 +39,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Overall, the CSS code is well-organized and structured, with clear comments and consistent naming conventions. It provides a cohesive set of styles for creating a visually appealing and functional web page for displaying recipe content.
 
 ### Screenshot
+![DesktopScreenshot](https://github.com/saifullahshaukat/Recipe-page-challenge-on-Frontend-Mentor/assets/157408050/3bb990e5-8045-4882-9811-6f4ef946c9cf)
 
-![](./DesktopScreenshot.jpg)
-![](./MobileScreenshot.jpg)
+![MobileScreenshot](https://github.com/saifullahshaukat/Recipe-page-challenge-on-Frontend-Mentor/assets/157408050/2fe63e32-6c16-4552-8265-0ae5afcb6507)
 
 ### Links
 
