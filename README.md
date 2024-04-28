@@ -115,7 +115,7 @@ Understanding how to use media queries effectively and testing them across vario
 ## Author
 
 - Linkedin - [Saifullah Shaukat](https://pk.linkedin.com/in/deepistics)
-- Frontend Mentor - [@saifullahshaukat](https://www.frontendmentor.io/profile/saifullahshaukat)
+- Frontend Mentor - [Saifullahshaukat](https://www.frontendmentor.io/profile/saifullahshaukat)
 
 ## Acknowledgments
 
